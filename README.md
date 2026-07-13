@@ -1,15 +1,19 @@
-# Guess the Number
+# Guess the Number 🎲
 
 My second Python project.
 
-A console game where the computer generates a random number and the player tries to guess it.
+## About
+
+A console game where the player tries to guess a randomly generated number.
 
 ## Features
 
 - Random number generation
-- Hints ("Too high" / "Too low")
-- Attempts counter
-- Play again option
+- Unlimited attempts
+- Hints
+- Play again
+- Functions
+- Project split into modules
 
 ## Technologies
 
